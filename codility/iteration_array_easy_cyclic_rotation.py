@@ -61,11 +61,6 @@ def solution(A, K):
 
             array_counter += 1
 
-            # print('A:', A,)
-            # print('temp_array', temp_array)
-            # print('temp_counter:', temp_counter)
-            # print('array_counter:', array_counter)
-
             if array_counter >= len(A):
                 break
 
